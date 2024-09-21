@@ -26,7 +26,7 @@ $$
 x^n + y^n = (x + y) \cdot S^+
 $$
 
-where $ S^+ $ is defined as:
+where S+ is defined as:
 
 $$
 S^+ = x^{n-1} - x^{n-2}y + x^{n-3}y^2 - \dots - xy^{n-2} + y^{n-1}
@@ -44,7 +44,7 @@ $$
 S^+ = w^n \quad \text{and} \quad (x + y) = 2^{nk}
 $$
 
-There are n terms in $ S^+ $ and only has a solution if x = y and |x| = n
+There are n terms in S+ and only has a solution if x = y and |x| = n
 
 [TODO: How to prove the above statement]
 
@@ -63,7 +63,7 @@ $$
 z^n - y^n = (z - y) \cdot S^-
 $$
 
-where $ S^- $ is defined as:
+where S- is defined as:
 
 $$
 S^- = z^{n-1} + z^{n-2}y + \dots + z^{n-2}y + y^{n-1}
@@ -75,7 +75,7 @@ $$
 S^- = w^n \quad \text{and} \quad (z - y) = 2^{nk}
 $$
 
-There are n terms in $ S^- $ and only has a solution if x =-y and |x| = n
+There are n terms in S- and only has a solution if x =-y and |x| = n
 
 [TODO: How to prove the above statement]
 
