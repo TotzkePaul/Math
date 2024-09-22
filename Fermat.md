@@ -32,7 +32,7 @@ $$
 S^+ = x^{n-1} - x^{n-2}y + x^{n-3}y^2 - \dots - xy^{n-2} + y^{n-1}
 $$
 
-**Observation**: Every term in $ S^+ $ is odd because both \( x \) and \( y \) are odd. Since there are \( n \) terms in \( S^+ \), the sum is odd. Thus, \( (x + y) \) must be even, and it implies that \( z \) is even, as \( z^n \) must also be even.
+**Observation**: Every term in S+ is odd because both \( x \) and \( y \) are odd. Since there are \( n \) terms in \( S^+ \), the sum is odd. Thus, \( (x + y) \) must be even, and it implies that \( z \) is even, as \( z^n \) must also be even.
 
 
 Let $z = 2^k \cdot w$, where $w$ is odd. Therefore, we have:
